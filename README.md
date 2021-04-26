@@ -2,6 +2,8 @@
 
 This script `/bin/win_migrate.bat` copies Splunk Buckets from Windows to Linux.
 
+**`NOTE:`** Review the Global Variables for setting. Run the script within the App's `/bin/` dir.
+
 ## **Global Variables**
 
 - `MaxVal=999`
