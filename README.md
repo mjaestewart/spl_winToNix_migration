@@ -1,6 +1,6 @@
 # spl_winToNix_migration
 
-This script copies Splunk Buckets from Windows to Linux.
+This script `/bin/win_migrate.bat` copies Splunk Buckets from Windows to Linux.
 
 ## **Global Variables**
 
